@@ -1,4 +1,4 @@
-# CoSociety-dashboard-Selenium-automation
+# CoSociety Selenium Automation
 
 This project automates regression test cases of the CoSociety dashboard using **Selenium WebDriver** in **Java**, following the **Page Object Model (POM)** design pattern, which makes the project more scalable and efficient.
 
